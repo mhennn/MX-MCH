@@ -1,7 +1,6 @@
 from utils.logo import logo
 from utils.initiated import INITIATED
 from core.data_handling import ReadData
-import string
 
 print(logo)
 
